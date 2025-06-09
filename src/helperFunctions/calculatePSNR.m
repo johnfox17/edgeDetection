@@ -1,0 +1,2 @@
+function calculatePSNR(image)
+end
